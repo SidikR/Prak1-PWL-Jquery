@@ -1,0 +1,14 @@
+.data {
+    margin-left: 25%;
+    margin-right: 25%;
+    border-style: solid;
+    border-width: medium;
+    border-radius: 5px;
+    padding: 30px 30px 30px 30px;
+    margin-bottom: 20px;
+}
+
+#judul {
+    text-align: center;
+    margin-top: 20px;
+}
