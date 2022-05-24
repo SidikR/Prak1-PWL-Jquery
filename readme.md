@@ -4,5 +4,3 @@
 ## Nama : Rahmad Sidik
 ## NIM  : 119140096
 
-## Tampilan Pesan
-
